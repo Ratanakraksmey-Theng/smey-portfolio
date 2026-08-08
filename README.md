@@ -2,7 +2,7 @@
 
 A personal portfolio website built with HTML, CSS, and JavaScript.
 
-🔗 Live Site: https://ratanakraksmey.github.io
+🔗 Live Site: https://ratanakraksmey-theng.github.io/smey-portfolio/
 
 ---
 
@@ -27,13 +27,14 @@ I'm Theng Ratanakraksmey (Smey), a Year 2 Information Technology student at Camb
 - **Stock Management System** — C# WinForms + ASP.NET Core
 - **User Management System** — C# WinForms + SQL Server
 - **Employee Management System** — HTML, CSS, JavaScript, Python Flask, MySQL
+- **List-menu System** — HTML, CSS, JavaScript, Python FastAPI, MySQL
 
 ---
 
 ## 📬 Contact
 
 - 📧 Email: smeytheng168@gmail.com
-- 💻 GitHub: github.com/ratanakraksmey
+- 💻 GitHub: github.com/ratanakraksmey-Theng
 - 📱 Telegram: t.me/Raksmey_thengratanak
 
 ---
