@@ -611,6 +611,11 @@
     /* ================= TABLET ================= */
 
     @media (max-width: 900px) {
+      .hero-title {
+        max-width: 100%;
+        overflow-wrap: anywhere;
+        word-break: normal;
+      }
       :root {
         --nav-height: 70px;
       }
@@ -725,6 +730,8 @@
 
       .hero-content {
         max-width: 100%;
+        min-width: 0;
+        overflow: visible;
       }
 
       .hero-tag {
@@ -734,12 +741,13 @@
       }
 
       .hero-title {
-        font-size: clamp(2.45rem, 12vw, 4rem);
-        line-height: 0.98;
-        letter-spacing: -0.045em;
+        font-size: clamp(2rem, 9.5vw, 3.6rem);
+        line-height: 1;
+        letter-spacing: -0.035em;
         margin-bottom: 1.2rem;
-        overflow-wrap: normal;
+        overflow-wrap: anywhere;
         word-break: normal;
+        max-width: 100%;
       }
 
       .hero-desc {
@@ -975,7 +983,6 @@
           </p>
           <div class="project-tags">
             <span class="project-tag">C# WinForms</span>
-            <span class="project-tag">ASP.NET Core</span>
             <span class="project-tag">SQL Server Management</span>
           </div>
         </div>
@@ -994,7 +1001,6 @@
           <div class="project-tags">
             <span class="project-tag">C# WinForms</span>
             <span class="project-tag">SQL Server Management</span>
-            <span class="project-tag">ASP.NET Core</span>
           </div>
         </div>
       </div>
@@ -1054,8 +1060,8 @@
           <div>
             <div class="contact-label">Email</div>
             <div class="contact-value">
-              <a href="mailto:smeytheng168@gmail.com">
-                smeytheng168@gmail.com
+              <a href="mailto:thengratanakraksmey24@gmail.com">
+                Thengratanakraksmey24@gmail.com
               </a>
             </div>
           </div>
@@ -1117,7 +1123,7 @@
   </section>
 
   <footer>
-    <p>Designed &amp; Built by <span>Smey</span> · 2026</p>
+    <p>Designed &amp; Built by <span>Smey</span> · 2025</p>
   </footer>
 
   <script>
