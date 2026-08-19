@@ -8,7 +8,7 @@ A personal portfolio website built with HTML, CSS, and JavaScript.
 
 ## 👨‍💻 About Me
 
-I'm Theng Ratanakraksmey (Smey), a Year 2 Information Technology student at Cambodian Mekong University. I am passionate about building real-world applications and modern web experiences.
+I'm Theng Ratanakraksmey (Smey), a Year 2 Computer Technology student at Cambodian Mekong University. I am passionate about building real-world applications and modern web experiences.
 
 ---
 
@@ -33,7 +33,7 @@ I'm Theng Ratanakraksmey (Smey), a Year 2 Information Technology student at Camb
 
 ## 📬 Contact
 
-- 📧 Email: Thengratanakraksmey24@gmail.com
+- 📧 Email: thengratanakraksmey24@gmail.com
 - 💻 GitHub: github.com/ratanakraksmey-Theng
 - 📱 Telegram: t.me/Raksmey_thengratanak
 
