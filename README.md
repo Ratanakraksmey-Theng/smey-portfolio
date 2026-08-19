@@ -24,21 +24,17 @@ I'm Theng Ratanakraksmey (Smey), a Year 2 Information Technology student at Camb
 
 ## 📁 Projects Featured
 
-- **Stock Management System** — C# WinForms + ASP.NET Core
-- **User Management System** — C# WinForms + SQL Server
-- **Employee Management System** — HTML, CSS, JavaScript, Python Flask, MySQL
+- **Stock Management System** — C# WinForms + SQL Server Management
+- **User Management System** — C# WinForms + SQL Server Management
 - **List-menu System** — HTML, CSS, JavaScript, Python FastAPI, MySQL
+- **Descipline_Daily Bot** - Python, FastAPI, Telegram Bot API
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: smeytheng168@gmail.com
+- 📧 Email: Thengratanakraksmey24@gmail.com
 - 💻 GitHub: github.com/ratanakraksmey-Theng
 - 📱 Telegram: t.me/Raksmey_thengratanak
 
 ---
-
-## 📄 License
-
-This project is open source and free to use.
